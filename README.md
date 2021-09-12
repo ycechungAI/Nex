@@ -1,6 +1,6 @@
-<p align="center">
+<a align="center">
 <h1>Nex</h1>
-</p>
+</a>
 
 ---
 
