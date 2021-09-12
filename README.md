@@ -30,7 +30,7 @@
 
 OS | Latest version | Comment |
 ---|---|--
-[![](https://raw.githubusercontent.com/felixrieseberg/windows95/master/.github/images/windows.png)Linux](https://github.com/tesseract-org/Nex/releases/latest) | [![Latest stable](https://img.shields.io/github/v/release/tesseract-org/Nex?color=white&label=latest%20version)](https://github.com/tesseract-org/Nex/releases/latest) | Stable | [
+[![](https://raw.githubusercontent.com/felixrieseberg/windows95/master/.github/images/windows.png?size=20)Linux](https://github.com/tesseract-org/Nex/releases/latest) | [![Latest stable](https://img.shields.io/github/v/release/tesseract-org/Nex?color=white&label=latest%20version)](https://github.com/tesseract-org/Nex/releases/latest) | Stable | [
 [:windWindows](https://github.com/elzabrowser/elza/releases/latest) | [![Latest stable](https://img.shields.io/github/v/release/tesseract-org/Nex?color=white&label=latest%20version)](https://github.com/elzabrowser/elza/releases/latest) | Stable | [
 [MacOS](https://github.com/tesseract-org/Nex/releases/latest) | [![Latest stable](https://img.shields.io/github/v/release/tesseract-org/Nex?color=white&label=latest%20version)](https://github.com/elzabrowser/elza/releases/latest) | Waiting for more peer reviews | 
 
