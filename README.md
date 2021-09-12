@@ -30,9 +30,9 @@
 
 OS | Latest version | Comment |
 ---|---|--
-[![](https://raw.githubusercontent.com/felixrieseberg/windows95/master/.github/images/windows.png?size=20)Linux](https://github.com/tesseract-org/Nex/releases/latest) | [![Latest stable](https://img.shields.io/github/v/release/tesseract-org/Nex?color=white&label=latest%20version)](https://github.com/tesseract-org/Nex/releases/latest) | Stable | [
-[:windWindows](https://github.com/elzabrowser/elza/releases/latest) | [![Latest stable](https://img.shields.io/github/v/release/tesseract-org/Nex?color=white&label=latest%20version)](https://github.com/elzabrowser/elza/releases/latest) | Stable | [
-[MacOS](https://github.com/tesseract-org/Nex/releases/latest) | [![Latest stable](https://img.shields.io/github/v/release/tesseract-org/Nex?color=white&label=latest%20version)](https://github.com/elzabrowser/elza/releases/latest) | Waiting for more peer reviews | 
+[Linux](https://github.com/tesseract-org/Nex/releases/latest) | [![Latest stable](https://img.shields.io/github/v/release/tesseract-org/Nex?color=white&label=latest%20version)](https://github.com/tesseract-org/Nex/releases/latest) | Stable | [
+[Windows](https://github.com/elzabrowser/elza/releases/latest) | [![Latest stable](https://img.shields.io/github/v/release/tesseract-org/Nex?color=white&label=latest%20version)](https://github.com/tesseract-org/Nex/releases/latest) | Stable | [
+[MacOS](https://github.com/tesseract-org/Nex/releases/latest) | [![Latest stable](https://img.shields.io/github/v/release/tesseract-org/Nex?color=white&label=latest%20version)](https://github.com/tesseract-org/Nex/releases/latest) | Waiting for more peer reviews | 
 
 ## Build Instructions
 
@@ -48,6 +48,5 @@ OS | Latest version | Comment |
 ## Bugs & Support
 
 🐞 Found a bug in Elza Browser? You can report it by [creating a new issue](https://github.com/tesseract-org/Nex/issues/new? ).
-
-🧭 Need assistance or want to ask a question? You can [start a discussion](https://github.com/tesseract-org/Nex/discussions/new) or [Discord us]().
+🧭 Need assistance or want to ask a question? You can [start a discussion](https://github.com/tesseract-org/Nex/discussions/new) or [Discord us](https://discord.gg/zBfSCasSnX).
 
