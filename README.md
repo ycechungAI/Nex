@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="./public/icon.png" height="160" length="160">
-Nex
+<h2>Nex</h2>
 </div>
 
 ---
