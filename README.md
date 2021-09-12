@@ -1,10 +1,11 @@
 <h4 align="center">The 🌐 browser of the 30th Century with built-in Tor 🧅</h4>
 
 <div align="center">
-<img src="./public/icon.png" height="80" length="80">
-<h1 align="center">Nex</h1>
+<img src="./public/icon.png" height="160" length="160">
+Nex
 </div>
 
+---
 # About
 
 **Nex Browser**. An browser which is all time incognito mode with some special abilities like tor to remain secure and private, with a minimal design. 
