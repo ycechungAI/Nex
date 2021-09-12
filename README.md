@@ -1,8 +1,7 @@
-<h4 align="center">The 🌐 browser of the 30th Century with built-in Tor 🧅</h4>
-
 <div align="center">
 <img src="./public/icon.png" height="160" length="160">
-<h2>Nex</h2>
+<h1>Nex</h1>
+<h3>The 🌐 browser of the 30th Century with built-in Tor 🧅</h3>
 </div>
 
 ---
