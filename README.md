@@ -48,5 +48,6 @@ OS | Latest version | Comment |
 ## Bugs & Support
 
 🐞 Found a bug in Nex Browser? You can report it by [creating a new issue](https://github.com/tesseract-org/Nex/issues/new? ).
+
 🧭 Need assistance or want to ask a question? You can [start a discussion](https://github.com/tesseract-org/Nex/discussions/new) or [Discord us](https://discord.gg/zBfSCasSnX).
 
