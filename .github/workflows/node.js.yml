@@ -1,0 +1,69 @@
+directories:
+  output: dist
+  buildResources: build
+files:
+  - filter:
+      - build/**/*
+      - build/**/*
+      - node_modules/**/*
+extraMetadata:
+  main: build/electron.js
+appId: com.eeo.nexbrowser
+publish:
+  - github
+artifactName: NexBrowser.Setup.${version}.${ext}
+linux:
+  icon: build
+  category: Network
+  synopsis: 'Nex : incognito browser of the 30th century'
+  target:
+    - deb
+    - appImage
+  desktop:
+    Name: Nex
+    Comment: Nex incognito browser of the 30th century
+  extraFiles:
+    - from: resources/lin/tor
+      to: resources/lin/tor
+      filter:
+        - '**/*'
+    - from: /usr/lib/x86_64-linux-gnu/libevent-2.1.so.7
+      to: usr/lib/libevent-2.1.so.7
+mac:
+  extraFiles:
+    - from: resources/mac/tor
+      to: resources/mac/tor
+      filter:
+        - '**/*'
+win:
+  publisherName: ExpertEvidence.org
+  target:
+    - nsis
+    - nsis-web
+  verifyUpdateCodeSignature: false
+  extraFiles:
+    - from: resources/win/Tor
+      to: resources/win/Tor
+      filter:
+        - '**/*'
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  deleteAppDataOnUninstall: true
+nsisWeb:
+  artifactName: NexBrowser.WebSetup.${version}.${ext}
+deb:
+  artifactName: NexBrowser.Setup.${version}.Ubuntu20.04.${ext}
+  icon: public/icon32x32.png
+  depends:
+    - gconf2
+    - gconf-service
+    - libnotify4
+    - libappindicator1
+    - libxtst6
+    - libnss3
+    - libevent-dev
+appImage:
+  artifactName: NexBrowser.Setup.AppImage
+extends: react-cra
+electronVersion: 13.1.4
