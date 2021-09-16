@@ -2,9 +2,12 @@
 <img src="./public/icon.png" height="160" length="160">
 <h1>Nex</h1>
 <h3>The 🌐 browser of the 30th Century with built-in Tor 🧅</h3>
-</div>
 
 ---
+![GitHub all releases](https://img.shields.io/github/downloads/tesseract-org/Nex/total?color=lightblue&label=Downloads&style=for-the-badge)
+
+</div>
+ 
 # About
 
 **Nex Browser**. An browser which is all time incognito mode with some special abilities like tor to remain secure and private, with a minimal design. 
