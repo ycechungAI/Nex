@@ -51,3 +51,5 @@ OS | Latest version | Comment |
 
 🧭 Need assistance or want to ask a question? You can [start a discussion](https://github.com/tesseract-org/Nex/discussions/new) or [Discord us](https://discord.gg/zBfSCasSnX).
 
+## Badges
+![GitHub all releases](https://img.shields.io/github/downloads/tesseract-org/Nex/total?color=lightblue&label=Downloads&style=for-the-badge)
