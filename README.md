@@ -6,6 +6,7 @@
 ---
 ![GitHub all releases](https://img.shields.io/github/downloads/tesseract-org/Nex/total?color=lightblue&label=Downloads&style=for-the-badge)
 
+<img src="https://i.imgur.com/Oii6yMK.png" />
 </div>
  
 # About
