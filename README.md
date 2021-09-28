@@ -39,6 +39,7 @@ OS | Latest version | Comment |
 [MacOS](https://github.com/tesseract-org/Nex/releases/latest) | [![Latest stable](https://img.shields.io/github/v/release/tesseract-org/Nex?color=white&label=latest%20version)](https://github.com/tesseract-org/Nex/releases/latest) | Waiting for more peer reviews | 
 
 ## To-Do
+
 [x] Discord RPC
 [x] Custom Search Engine Fix
 [x] fix Onion not launching every time
