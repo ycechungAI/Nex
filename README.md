@@ -38,6 +38,11 @@ OS | Latest version | Comment |
 [Windows](https://github.com/tesseract-org/Nex/releases/latest) | [![Latest stable](https://img.shields.io/github/v/release/tesseract-org/Nex?color=white&label=latest%20version)](https://github.com/tesseract-org/Nex/releases/latest) | Stable | [
 [MacOS](https://github.com/tesseract-org/Nex/releases/latest) | [![Latest stable](https://img.shields.io/github/v/release/tesseract-org/Nex?color=white&label=latest%20version)](https://github.com/tesseract-org/Nex/releases/latest) | Waiting for more peer reviews | 
 
+## To-Do
+[] Discord RPC
+[] Custom Search Engine Fix
+[] fix Onion not launching every time
+
 ## Build Instructions
 
 -   Clone the repository and install required npm modules
