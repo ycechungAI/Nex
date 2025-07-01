@@ -129,7 +129,7 @@
   },
   "devDependencies": {
     "concurrently": "^6.2.0",
-    "electron": "^22.3.25",
+    "electron": "^37.1.0",
     "electron-builder": "^24.13.3",
     "electron-packager": "^17.1.2",
     "wait-on": "^7.2.0"
